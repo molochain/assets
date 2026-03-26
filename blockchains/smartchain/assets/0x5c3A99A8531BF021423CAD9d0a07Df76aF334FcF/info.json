@@ -8,6 +8,9 @@
   "explorer": "https://bscscan.com/token/0x5c3A99A8531BF021423CAD9d0a07Df76aF334FcF",
   "status": "active",
   "id": "0x5c3A99A8531BF021423CAD9d0a07Df76aF334FcF",
+  "tags": [
+    "defi"
+  ],
   "links": [
     {
       "name": "telegram",
@@ -15,7 +18,7 @@
     },
     {
       "name": "discord",
-      "url": "https://discord.gg/prgJ7THWQn"
+      "url": "https://discord.com/invite/prgJ7THWQn"
     },
     {
       "name": "twitter",
