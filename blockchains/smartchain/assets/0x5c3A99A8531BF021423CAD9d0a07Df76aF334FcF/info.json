@@ -3,12 +3,20 @@
   "symbol": "MOLO",
   "type": "BEP20",
   "decimals": 18,
-  "description": "MOLO CHAIN (MOLO) is the native utility and governance token for the Molochain ecosystem on BNB Smart Chain. Security score: 93/100, LP locked until March 2027, team tokens vested 24 months.",
+  "description": "MOLO CHAIN is the native utility token for the Molochain logistics ecosystem, unifying freight management, AI-powered route optimization, and real-time shipment tracking on BNB Smart Chain.",
   "website": "https://molochain.com",
   "explorer": "https://bscscan.com/token/0x5c3A99A8531BF021423CAD9d0a07Df76aF334FcF",
   "status": "active",
   "id": "0x5c3A99A8531BF021423CAD9d0a07Df76aF334FcF",
   "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/MOLOCHAIN"
+    },
+    {
+      "name": "discord",
+      "url": "https://discord.gg/prgJ7THWQn"
+    },
     {
       "name": "twitter",
       "url": "https://x.com/moloecosystem"
@@ -16,17 +24,6 @@
     {
       "name": "github",
       "url": "https://github.com/molochain"
-    },
-    {
-      "name": "telegram",
-      "url": "https://t.me/MOLOCHAIN"
-    },
-    {
-      "name": "discord",
-      "url": "https://discord.com/invite/prgJ7THWQn"
     }
-  ],
-  "tags": [
-    "defi"
   ]
 }
